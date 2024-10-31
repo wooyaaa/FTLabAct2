@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #cad2c5;
+    margin: 50px;
+    color:#354f52;
+    font-family: "Montserrat", sans-serif;
+}
+
+hr{
+    color: #2f3e46;
+    height: 2px;
+    border: none;
+    background-color: #2f3e46;
+}
+.whole{
+    display: inline-flex;
+}
+.title{
+    font-size: 3rem;
+}
+.descrip{
+    font-size: 2rem;
+}
+.img{
+    width: 30rem;
+}
+.obj{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+.instructions{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+.output{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    justify-content: center;
+}
+.faqs{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    justify-content: center;
+}
+.criteria{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    justify-content: center;
+}
+.submit{
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    justify-content: center;
+}
+.obj:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
+.instructions:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
+.output:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
+.faqs:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
+.criteria:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
+.submit:hover{
+    background-color: #84a98c;
+    color:#FFFFFF;
+}
